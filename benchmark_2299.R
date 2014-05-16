@@ -3,12 +3,7 @@
 # and writes a submission file (submission.csv).
 # The working directory ~/walmart is assumed to contain the input files.
 
-# IS THERE A BETTER WAY TO DO THE CHRISTMAS CALCULATION THAN JUST USING THE USUAL
-# BLENDING LOGIC?
-
-# SHOULD I REVERSE THE ORDER OF TRENDING AND BLENDING?
-# FULLY AUTOMATED TRENDING?
-# DO TREND BY STORE AND DEPARTMENT?
+# THIS IS THE BEST SUBMISSION: 2299.60492 PUBLIC, 2394.70198 PRIVATE
 
 WORKING_DIRECTORY = "~/walmart"
 options(stringsAsFactors = FALSE)
